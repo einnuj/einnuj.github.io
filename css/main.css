@@ -95,9 +95,16 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+#footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
 
-
-
+.glyphicon.glyphicon-menu-up {
+    font-size: 45px;
+}
 
 
 
